@@ -1,26 +1,4 @@
 body{
-    background-color: black;
+    background: linear-gradient(100deg, black 0%, rgb(255, 136, 0) 99.71%);    
 }
 
-.nav{
-    display: flex;
-    justify-content: space-around;
-    /* margin: 10px; */
-    /* margin-left: 5px;
-    margin-right: 90px; */
-    /* background-color: red; */
-    margin-top: 30px;
-    gap: 650px;
-    font-size: 40px;
-    /* font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; */
-    font-family: 'Tangerine', serif;
-    color: white;
-}
-
-.nav-item
-{
-    display: flex;
-    justify-content: space-around;
-    /* background-color: green; */
-    width: 500px;
-}
