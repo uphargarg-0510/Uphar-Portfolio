@@ -1,4 +1,41 @@
 body{
-    background: linear-gradient(100deg, black 0%, rgb(255, 136, 0) 99.71%);    
+    /* background-color: black; */
+    margin: 0px;
+    padding: 0px;
 }
 
+/* background: linear-gradient(100deg, black 0%, rgb(255, 136, 0) 99.71%); */
+.navbar{
+    /* color: white; */
+    opacity: 0.3;
+}
+/* .stand1{
+    background-color: white;
+    width: 50vh;
+}
+
+.stand2{
+    background-color: white;
+} */
+
+.container-canvas{
+    border: 3px solid black;
+}
+
+.canvas {
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+    /* align-items: center; */
+}
+
+.card-body{
+    /* line-height: 37px; */
+    padding: 400px;
+    /* background-color: blue; */
+}
+
+.card-style{
+    background-color: rgb(108, 108, 108);
+    color: white;
+}
